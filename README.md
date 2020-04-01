@@ -1,1 +1,1 @@
-### Datacamp Mini Project
+### Datacamp Mini Projects
